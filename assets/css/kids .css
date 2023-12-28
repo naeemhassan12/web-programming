@@ -1,0 +1,29 @@
+body{
+    background-image:linear-gradient(to left top,red 70%,green 30%);
+
+}
+.container{
+    color:aliceblue;
+    font-weight: bold;
+}
+label{
+}
+input{
+    border-radius: 6px;
+    width:160px;
+    height: 40px;
+    color:black;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+    font-weight: bolder;
+}
+select{
+    border-radius: 6px;
+    width:160px;
+    height: 40px;
+}
+h3{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight:bolder;
+    color: ghostwhite;
+    
+}
